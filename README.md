@@ -1051,3 +1051,5 @@ $ git config --global color.ui 1
 | Title | Link |
 | ----- | ---- |
 | GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
+
+The end
